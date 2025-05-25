@@ -24,20 +24,20 @@ This project explores computational approaches to the **Gauss circle problem** a
 
 ## 📦 Setup Instructions
 
-1. Clone the repository:
+1. **Clone the repository**
   ```bash
   git clone https://github.com/pantelidakis-i/lattice-project.git
   cd lattice-project
 
-2. Create and activate a virtual environment:
+2. **Create and activate a virtual environment**
   python -m venv venv
   .\venv\Scripts\Activate.ps1  # For Windows PowerShell
   source venv/bin/activate     # For Unix/Linux/MacOS
 
-3. Install dependencies:
+3. **Install dependencies**
   pip install -r requirements.txt
 
-4. Run scripts as needed, for example:
+4. **Run scripts as needed, for example**
   python lattice.py
 
 ---
