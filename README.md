@@ -18,7 +18,6 @@ This project explores computational approaches to the **Gauss circle problem** a
 - Python 3
 - NumPy
 - Matplotlib
-- (Optional: other libraries you used)
 
 ---
 
@@ -62,7 +61,7 @@ This project explores computational approaches to the **Gauss circle problem** a
 
 ## 📌 Notes on Scope and Acknowledgements
 
-- The lattice code focuses on the 2D standard lattice, as this was the scope of the Gauss circle problem and arithmetic progressions studied in the MSci project.
+- The lattice code focuses on the 2D standard lattice, as this is the focus for the Gauss circle problem for arithmetic progressions studied in my MSci project.
 - Higher dimensional lattice counting and arbitrary basis lattices are not fully implemented at this stage.
 - Some code snippets and ideas were adapted from online resources like Stack Overflow to aid implementation efficiency.
 
