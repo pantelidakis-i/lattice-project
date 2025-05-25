@@ -37,12 +37,12 @@ This project explores computational approaches to the **Gauss circle problem** a
   source venv/bin/activate     # For Unix/Linux/MacOS
   ```
 
-4. **Install dependencies**
+3. **Install dependencies**
   ```bash
   pip install -r requirements.txt
   ```
 
-6. **Run scripts as needed, for example**
+4. **Run scripts as needed, for example**
   ```bash
   python lattice.py
   ```
