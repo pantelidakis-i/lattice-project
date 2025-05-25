@@ -42,6 +42,8 @@ This project explores computational approaches to the **Gauss circle problem** a
 4. **Run scripts as needed, for example**
   python lattice.py
 
+  ```
+
 ---
 
 ## 📁 Project Structure
