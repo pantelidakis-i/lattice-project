@@ -22,6 +22,8 @@ This project explores computational approaches to the **Gauss circle problem** a
 
 ---
 
+```markdown
+
 ## 📦 Setup Instructions
 
 1. **Clone the repository**
